@@ -12,14 +12,14 @@ const chalk = require('chalk')
 global.zenzkey = 'Your_Apikey' //Register Atau Beli Di zenzapis.xyz
 
 //===> SESUAIKAN DENGAN KEBUTUHAN MU
-global.ownerNumber = ['6285609233482','6285609233482'] //Ganti Jadi Nomer mu Biar Fitur Ownernya Bisa Dipake
-global.Rowner = '6285609233482' //Owner Utama
-global.ownerName = 'Nzrl Afndi' //Ganti Jadi Namamu
-global.packname = 'Dracule Mihawk' //Ganti Jadi Nama Botmu
-global.author = 'By NzrlAfndi' //Ganti Jadi Namamu
+global.ownerNumber = ['6282261065144','6282261065144'] //Ganti Jadi Nomer mu Biar Fitur Ownernya Bisa Dipake
+global.Rowner = '6282261065144' //Owner Utama
+global.ownerName = 'FIN' //Ganti Jadi Namamu
+global.packname = 'FIN-MD' //Ganti Jadi Nama Botmu
+global.author = 'By FIN' //Ganti Jadi Namamu
 global.prefa = ['','.','#','!'] //Ilangin Prefix Yang '' Kalau Gamau No Prefix
 global.sessionName = 'sesi' //Saran Gausah Diganti Lagi
-global.webme = 'https://linktr.ee/NzrlAfndi' //Ganti Jadi Bebas Web Sosmed Mu
+global.webme = 'https://linktr.ee/fin222' //Ganti Jadi Bebas Web Sosmed Mu
 
 //====> SARAN GAUSAH DIGANTI SIH DAH PAS SEMUA
 global.limitAwal = {
@@ -32,10 +32,10 @@ global.fiturOff = '❎ Fitur Tidak Diaktifkan'
 global.fiturError = 'Fitur Sedang Error ❎'
 
 //===> BOT SETTINGS
-global.autobackup = true //Ganti Ke false Kalau Gamau Di Kirimin File Setiap Hari
+global.autobackup = false //Ganti Ke false Kalau Gamau Di Kirimin File Setiap Hari
 global.autoread = true //Ganti ke false kalau gamau smua chat di read sama bot
 global.autotyping = true //Ganti ke false kalau gamau auto mengetik kalau ada chat masuk ke wa bot
-global.available = false //Ganti ke true kalau pengen bot nya keliatan online terus
+global.available = true //Ganti ke true kalau pengen bot nya keliatan online terus
 
 //===> SESUAIKAN DENGAN KEBUTUHAN MU 
 global.mess = {
